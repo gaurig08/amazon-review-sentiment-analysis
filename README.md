@@ -12,7 +12,7 @@ This project classifies Amazon reviews as Negative, Neutral, or Positive. It com
 - Logistic Regression, Random Forest
 ## Dataset
  
-[Datafiniti "Consumer Reviews of Amazon Products"](https://data.world/datafiniti/consumer-reviews-of-amazon-products): 34,660 real Amazon reviews with star ratings and review text. Also available on Kaggle as `1429_1.csv`. After removing rows with missing text or rating, 34,626 reviews are left, well past the 20,000+ target.
+34,660 real Amazon reviews with star ratings and review text. Available on Kaggle. After removing rows with missing text or rating, 34,626 reviews are left, well past the 20,000+ target.
 
  
 | Sentiment | Count | % |
